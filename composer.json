@@ -23,7 +23,6 @@
         "scaled/laravel-langman": "^1.3.6"
     },
     "require-dev": {
-        "orchestra/testbench": "*",
         "phpunit/phpunit": "^8.0",
         "mockery/mockery": "^1.2"
     },
